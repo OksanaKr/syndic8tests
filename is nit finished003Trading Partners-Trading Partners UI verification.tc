@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Correct displaying of trading partners and work of checkboxes and radio button</description>
+   <name>is nit finished003Trading Partners-Trading Partners UI verification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fa2e84a9-f4c0-4aac-8999-f29f886659c8</testCaseGuid>
+</TestCaseEntity>
